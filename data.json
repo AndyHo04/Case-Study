@@ -1,0 +1,78 @@
+{
+	"total":64654308,
+	"male": {
+		"total": 31973108,
+		"with_a_disability": {
+			"total": 5105959,
+			"enrolled_in_school": {
+				"total": 982446,
+				"below_college": 317263,
+				"college_or_graduate_school": 665183
+			},
+			"not_enrolled_in_school": {
+				"total": 4123513,
+				"not_high_school_graduate": 1450481,
+				"high_school_graduate_(includes_equivalency)": 1482290,
+				"some_college,_no_degree": 659004,
+				"associate_degree": 154060,
+				"bachelors_degree": 297657,
+				"graduate_or_professional_degree": 80021
+			}
+		},
+		"no_disability": {
+			"total": 26867149,
+			"enrolled_in_school": {
+				"total": 6777394,
+				"below_college": 1384055,
+				"college_or_graduate_school": 5393339
+			},
+			"not_enrolled_in_school": {
+				"total": 20089755,
+				"not_high_school_graduate": 4093225,
+				"high_school_graduate_(includes_equivalency)": 6471087,
+				"some_college,_no_degree": 4087125,
+				"associate_degree": 1076334,
+				"bachelors_degree": 3325539,
+				"graduate_or_professional_degree": 1036445
+			}
+		}
+	},
+	"female": {
+		"total": 32681200,
+		"with_a_disability": {
+			"total": 4362282,
+			"enrolled_in_school": {
+				"total": 953326,
+				"below_college": 247702,
+				"college_or_graduate_school": 705624
+			},
+			"not_enrolled_in_school": {
+				"total": 3408956,
+				"not_high_school_graduate": 1024365,
+				"high_school_graduate_(includes_equivalency)": 1168566,
+				"some_college,_no_degree": 673043,
+				"associate_degree": 169277,
+				"bachelors_degree": 292341,
+				"graduate_or_professional_degree": 81364
+			}
+		},
+		"no_disability": {
+			"total": 28318918,
+			"enrolled_in_school": {
+				"total": 7638302,
+				"below_college": 1211103,
+				"college_or_graduate_school": 6427199
+			},
+			"not_enrolled_in_school": {
+				"total": 20680616,
+				"not_high_school_graduate": 3360896,
+				"high_school_graduate_(includes_equivalency)": 5955369,
+				"some_college,_no_degree": 4643493,
+				"associate_degree": 1448899,
+				"bachelors_degree": 4042351,
+				"graduate_or_professional_degree": 1229608
+			}
+		}
+	}
+}
+
